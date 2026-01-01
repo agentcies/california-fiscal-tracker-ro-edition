@@ -1,0 +1,5 @@
+{
+  "name": "CA Tax Revenue & Migration Tracker",
+  "description": "A dashboard tracking the fiscal impact of high-earner migration and wealth tax proposals in California, featuring real-time AI grounding.",
+  "requestFramePermissions": []
+}
